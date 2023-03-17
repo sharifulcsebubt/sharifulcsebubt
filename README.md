@@ -1,12 +1,14 @@
 All of Contributing Projects:
 
-(i) Library Management System
+(i) Library Management System.
+    GitHub Link:
 
-    github link: https://github.com/mhasanrabbi/library-management-system
+    https://github.com/mhasanrabbi/library-management-system
 
-(ii) Book Management System
+(ii) Book Management System.
+    github link: 
 
-    github link: https://github.com/PaulJoydeb/bsm
+    https://github.com/PaulJoydeb/bsm
 
 (iii) e-Nothi & d-Nothi
 
